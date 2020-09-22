@@ -14,9 +14,9 @@
 * 3 ketchup
 * 4 mayonaise
 * 5 pickles
-* 3 ketchup
-* 3 ketchup
-* 3 ketchup
+* 3 mayonaise
+* 3 mayonaise
+* 3 mayonaise
 
 
 
